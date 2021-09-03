@@ -7,9 +7,11 @@ Given an array A of N elements. Find the majority element in the array. A majori
 
 Input:
 N = 3 
-A[] = {1,2,3} 
+A[] = {1,2,3}
+
 Output:
 -1
+
 Explanation:
 Since, each element in 
 {1,2,3} appears only once so there 
@@ -19,8 +21,10 @@ Example 2:
 Input:
 N = 5 
 A[] = {3,1,3,3,2} 
+
 Output:
 3
+
 Explanation:
 Since, 3 is present more
 than N/2 times, so it is 
@@ -31,6 +35,7 @@ The task is to complete the function majorityElement() which returns the majorit
  
 
 Expected Time Complexity: O(N).
+
 Expected Auxiliary Space: O(1).
  
 
