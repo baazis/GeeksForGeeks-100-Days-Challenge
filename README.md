@@ -7,4 +7,5 @@
 ### 20th Sept : Factorials of large numbers
 ### 21st Sept : Dam Of Candies
 ### 22nd Sept : Repeated String Match
-### 22nd Sept : Count Total Set Bits
+### 23rd Sept : Count Total Set Bits
+### 24th Sept : Check Tree Traversal
