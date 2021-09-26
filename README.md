@@ -3,7 +3,7 @@
 
 
 
-### 19th Sept : [Median of 2 Sorted Arrays of Different Sizes](https://www.programcreek.com/2014/06/leetcode-trapping-rain-water-java/)
+### 19th Sept : [Median of 2 Sorted Arrays of Different Sizes](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/blob/main/DAY-1:%20MedianSortedArray/DAY1-MedianSortedArrays.cpp)
 ### 20th Sept : Factorials of large numbers
 ### 21st Sept : Dam Of Candies
 ### 22nd Sept : Repeated String Match
