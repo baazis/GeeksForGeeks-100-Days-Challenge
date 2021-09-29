@@ -13,3 +13,4 @@
 ### DAY 8- 26th Sept : [Count Occurences of Anagrams](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/blob/main/Day-8:%20Count%20Occurences%20of%20Anagrams/solution.cpp)
 ### DAY 9- 27th Sept : [Middle Element In a Linked List](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/blob/main/DAY-9%20Finding%20middle%20element%20in%20a%20linked%20list/Finding%20middle%20element%20in%20a%20linked%20list.CPP)
 ### DAY 10- 28th Sept : [Sort a Stack](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/blob/main/DAY10-Sort%20a%20Stack/SortAstack.cpp)
+### DAY 11- 29th Sept : [Restricted Pacman](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/tree/main/DAY11-RESTRICTED%20PACMAN)
