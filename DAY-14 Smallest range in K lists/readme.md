@@ -4,11 +4,8 @@ Given K sorted lists of integers, KSortedArray[] of size N each. The task is to 
 
 Example 1:
 
-Input:
+![image](https://user-images.githubusercontent.com/58622363/135851608-c0bed917-1300-4626-81f1-01533365f4d7.png)
 
-    N = 5, K = 3
-    KSortedArray[][] = {{1 3 5 7 9}, {0 2 4 6 8}, {2 3 5 7 11}}                  
-    Output: 1 2
 
 Explanation: K = 3
 A:[1 3 5 7 9]
@@ -18,12 +15,8 @@ Smallest range is formed by number 1
 present in first list and 2 is present
 in both 2nd and 3rd list.
 
-Example 2:
+![image](https://user-images.githubusercontent.com/58622363/135851758-c977f5ed-7b17-42b6-9794-9499e68f8a3c.png)
 
-    Input:
-    N = 4, K = 3
-    KSortedArray[][] = {{1 2 3 4}, {5 6 7 8}, {9 10 11 12}}              
-    Output: 4 9
 
 Your Task :
 
