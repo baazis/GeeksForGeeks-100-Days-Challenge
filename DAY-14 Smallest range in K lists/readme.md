@@ -7,9 +7,7 @@ Example 1:
 Input:
 
     N = 5, K = 3
-    KSortedArray[][] = {{1 3 5 7 9},
-                        {0 2 4 6 8},
-                        {2 3 5 7 11}}
+    KSortedArray[][] = {{1 3 5 7 9}, {0 2 4 6 8}, {2 3 5 7 11}}                  
     Output: 1 2
 
 Explanation: K = 3
@@ -24,10 +22,7 @@ Example 2:
 
     Input:
     N = 4, K = 3
-    KSortedArray[][] = {{1 2 3 4},
-                        {5 6 7 8},
-                        {9 10 11 12}}
-                    
+    KSortedArray[][] = {{1 2 3 4}, {5 6 7 8}, {9 10 11 12}}              
     Output: 4 9
 
 Your Task :
