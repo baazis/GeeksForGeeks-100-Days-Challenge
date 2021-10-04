@@ -16,4 +16,4 @@
 #### DAY 11- 29th Sept : [Restricted Pacman](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/tree/main/DAY11-RESTRICTED%20PACMAN)
 #### DAY 12- 30th Sept : [Vertical Traversal Of Binary Tree](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/tree/main/DAY12-Vertical%20Traversal%20Of%20Binary%20Tree)
 #### DAY 13- 1st Oct : [Check for BST](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/tree/main/DAY13-Check%20for%20BST)
-#### DAY 14- 2nd Oct : [Smallest Range in K bits](#### DAY 13- 1st Oct : [Check for BST](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/tree/main/DAY13-Check%20for%20BST))
+#### DAY 14- 2nd Oct : [Smallest Range in K lists](https://github.com/baazis/GeeksForGeeks-100-Days-Challenge/blob/main/DAY-14%20Smallest%20range%20in%20K%20lists/Smallest%20range%20in%20K%20lists.cpp)
